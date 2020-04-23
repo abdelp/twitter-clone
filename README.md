@@ -17,7 +17,7 @@ This project entails creating a simple Twitter Clone Page using Ruby on Rails. T
 - Rubocop Linter
 - Stickler CI
 
-![screenshot](app/assets/img/screenshot/screenshot.png)
+![screenshot](app/assets/images/screenshot.png)
 
 
 ## Author

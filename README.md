@@ -1,24 +1,44 @@
-# README
+# Twitter Clone
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This project entails creating a simple Twitter Clone Page using Ruby on Rails. The scope of the project includes:
 
-Things you may want to cover:
+  - Models, Views, and Controllers (MVC)
+  - Data Structures & Relationships
+  - Routing
+  - Migrations
+  - Views with forms, partials, and helpers
+  - RESTful design
+  - Adding gems for extra features
 
-* Ruby version
+## Built With
 
-* System dependencies
+- Ruby on Rails
+- Sqlite3
+- Rubocop Linter
+- Stickler CI
 
-* Configuration
+![screenshot](app/assets/img/screenshot/screenshot.png)
 
-* Database creation
 
-* Database initialization
+## Author
 
-* How to run the test suite
+👤 **Abdel Omar Pérez Téllez**
 
-* Services (job queues, cache servers, search engines, etc.)
+- Github: [abdelp](https://github.com/abdelp)
+- Twitter: [@abdelperez11](https://twitter.com/abdelperez11) 
+- Linkedin: [abdel-perez](https://www.linkedin.com/in/abdel-perez/)
 
-* Deployment instructions
 
-* ...
+## 🤝 Contributing
+
+Contributions, issues and feature requests are welcome!
+
+Feel free to check the [issues page](https://github.com/abdelp/twitter-clone/issues).
+
+## Show your support
+
+Give a ⭐️ if you like this project!
+
+## 📝 License
+
+This project is [MIT](lic.url) licensed.

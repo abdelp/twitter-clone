@@ -13,9 +13,13 @@ This project entails creating a simple Twitter Clone Page using Ruby on Rails. T
 ## Built With
 
 - Ruby on Rails
-- Sqlite3
+- PostgreSQL
 - Rubocop Linter
 - Stickler CI
+
+## Live Demo
+
+[Link](http://enigmatic-shelf-72631.herokuapp.com/)
 
 ![screenshot](app/assets/images/screenshot.png)
 

@@ -33,7 +33,7 @@ gem 'simple_form', '~> 5.0', '>= 5.0.2'
 
 group :development, :test do
   # Call 'byebug' anywhere in the code to stop execution and get a debugger console
-  gem 'better_errors', '~> 2.6'
+  gem 'better_errors', '~> 2.8'
   gem 'byebug', platforms: %i[mri mingw x64_mingw]
   gem 'guard', '~> 2.16', '>= 2.16.2'
   gem 'guard-livereload', '~> 2.5', '>= 2.5.2', require: false
